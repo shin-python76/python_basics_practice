@@ -1,0 +1,2 @@
+# python_basics_practice
+Python基礎学習のログ
