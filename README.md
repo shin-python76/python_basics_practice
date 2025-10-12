@@ -118,3 +118,15 @@ FizzBuzz問題（for文・while文の練習）。
 
 ---
 
+### 11_simple_janken_game(if_random_input).ipynb
+簡易じゃんけんゲームを作成するプログラム。
+ユーザーの入力とコンピュータの手を比較し、勝敗を判定します。
+
+**学習ポイント**
+- if / elif / else による条件分岐の応用
+- input() によるユーザー入力の取得
+- random.choice() によるランダム選択処理
+- def による関数定義と return の使い方
+- f文字列による結果表示（文字列整形）
+
+---
